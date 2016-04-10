@@ -17,8 +17,8 @@ However, the library is completely standalone and has no dependency on
 
 ## Install
 
--Make sure you have the dependencies (note a copy of each relevant dependency
--can be found in the `vendor/` subdirectory of this repo):
+Make sure you have the dependencies (note a copy of each relevant dependency
+can be found in the `vendor/` subdirectory of this repo):
 
 * [Flot][]
 * jQuery
